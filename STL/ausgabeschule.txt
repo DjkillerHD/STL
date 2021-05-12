@@ -1,0 +1,112 @@
+Nachname: 1
+Marke: 1
+Type: 1
+Farbe: 1
+CO: 1g/cm^3
+Hubraum: 1ccm
+
+Nachname: Hufnagl
+Marke: VW
+Type: Golf
+Farbe: schwarz
+CO: schwarzg/cm^3
+Hubraum: 200ccm
+
+Nachname: Feiler
+Marke: Ford
+Type: Focus
+Farbe: weiss
+CO: weissg/cm^3
+Hubraum: 150ccm
+
+Nachname: Gerstenbauer
+Marke: VW
+Type: Passat
+Farbe: schwarz
+CO: schwarzg/cm^3
+Hubraum: 230ccm
+
+Nachname: Feiler
+Marke: Ford
+Type: Focus
+Farbe: weiss
+CO: weissg/cm^3
+Hubraum: 150ccm
+
+Nachname: Feiler
+Marke: VW
+Type: Polo
+Farbe: blau-grau
+CO: blau-graug/cm^3
+Hubraum: 150ccm
+
+Nachname: Feiler
+Marke: Ford
+Type: Fiesta
+Farbe: weiss
+CO: weissg/cm^3
+Hubraum: 1230ccm
+
+Nachname: Geiler
+Marke: Fiat
+Type: Panda
+Farbe: weiss
+CO: weissg/cm^3
+Hubraum: 289ccm
+
+Nachname: Hufnagl
+Marke: VW
+Type: Golf
+Farbe: schwarz
+CO: schwarzg/cm^3
+Hubraum: 200ccm
+
+Nachname: Feiler
+Marke: Ford
+Type: Focus
+Farbe: weiss
+CO: weissg/cm^3
+Hubraum: 150ccm
+
+Nachname: Gerstenbauer
+Marke: VW
+Type: Passat
+Farbe: schwarz
+CO: schwarzg/cm^3
+Hubraum: 230ccm
+
+Nachname: Feiler
+Marke: Ford
+Type: Focus
+Farbe: weiss
+CO: weissg/cm^3
+Hubraum: 150ccm
+
+Nachname: Feiler
+Marke: VW
+Type: Polo
+Farbe: blau-grau
+CO: blau-graug/cm^3
+Hubraum: 150ccm
+
+Nachname: Feiler
+Marke: Ford
+Type: Fiesta
+Farbe: weiss
+CO: weissg/cm^3
+Hubraum: 1230ccm
+
+Nachname: Geiler
+Marke: Fiat
+Type: Panda
+Farbe: weiss
+CO: weissg/cm^3
+Hubraum: 289ccm
+
+Nachname: 3
+Marke: 3
+Type: 3
+Farbe: 3
+CO: 3g/cm^3
+Hubraum: 3ccm
+

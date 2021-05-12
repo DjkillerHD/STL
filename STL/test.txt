@@ -1,0 +1,13 @@
+Nachname: Geiler
+Marke: Fiat
+Type: Panda
+Farbe: weiss
+CO: 40.42g/cm^3
+Hubraum: 289ccm
+
+Nachname: Feiler
+Marke: Ford
+Type: Fiesta
+Farbe: weiss
+CO: 40.40g/cm^3
+Hubraum: 1230ccm

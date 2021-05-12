@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1620806870 source:c:\users\sebi\documents\schule\3. klasse\00_fsst\stl\main.cpp
+	<windows.h>
+	<iostream>
+	"display.h"
+	"Zulassungen.h"
+
+1563467294 c:\codeblocks\htl\include\display.h
+	<stdbool.h>
+
+1620806995 c:\users\sebi\documents\schule\3. klasse\00_fsst\stl\zulassungen.h
+	<list>
+	"Zulassung.h"
+	<fstream>
+	<string>
+	<sstream>
+	<exception>
+
+1620807013 c:\users\sebi\documents\schule\3. klasse\00_fsst\stl\zulassung.h
+

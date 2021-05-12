@@ -1,0 +1,55 @@
+Nachname: Geiler
+Marke: Fiat
+Type: Panda
+Farbe: weiss
+CO: 40.42g/cm^3
+Hubraum: 289ccm
+
+Nachname: Feiler
+Marke: Ford
+Type: Fiesta
+Farbe: weiss
+CO: 40.40g/cm^3
+Hubraum: 1230ccm
+
+Nachname: Feiler
+Marke: VW
+Type: Polo
+Farbe: blau-grau
+CO: 40.40g/cm^3
+Hubraum: 150ccm
+
+Nachname: Feiler
+Marke: Ford
+Type: Focus
+Farbe: weiss
+CO: 40.40g/cm^3
+Hubraum: 150ccm
+
+Nachname: Sienel
+Marke: Mercedes
+Type: Maybach
+Farbe: schwarz
+CO: 30.12g/cm^3
+Hubraum: 280ccm
+
+Nachname: Gerstenbauer
+Marke: VW
+Type: Passat
+Farbe: schwarz
+CO: 60.00g/cm^3
+Hubraum: 230ccm
+
+Nachname: Feiler
+Marke: Ford
+Type: Focus
+Farbe: weiss
+CO: 40.40g/cm^3
+Hubraum: 150ccm
+
+Nachname: Hufnagl
+Marke: VW
+Type: Golf
+Farbe: schwarz
+CO: 22.20g/cm^3
+Hubraum: 200ccm
